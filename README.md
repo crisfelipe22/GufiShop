@@ -1,10 +1,11 @@
 # GufiShop
-<!---------------------------------------------------->
-<!---------------------------------------------------->
+<BR>
+<b>
 Autores
-Cristian Felipe Ovalles Ramirez codi:20172020068
-Cristian Andres Torres Chaparro codi:20172020166
-Autores
-<Framework de diseño bootstrap
-<!---------------------------------------------------->
-<!---------------------------------------------------->
+</b>
+<BR>
+  Cristian Felipe Ovalles Ramirez <b> código: </b> 20172020068
+<BR>
+Cristian Andres Torres Chaparro <b> código: </b> 20172020166
+<BR>
+<b> Framework de diseño bootstrap </b>
